@@ -1,4 +1,5 @@
 #include<iostream>
+#include<fun.h>
 
 int main()
 {
